@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a2fd199-ccb3-4539-89aa-03de4756cda7" name="Changes" comment="Test1">
-      <change afterPath="$PROJECT_DIR$/src/Striever_A2Z_Sheet/Dynaming_Programming/Unique_Paths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striever_A2Z_Sheet/Dynaming_Programming/Unique_Paths_2.java" afterDir="false" />
+    <list default="true" id="7a2fd199-ccb3-4539-89aa-03de4756cda7" name="Changes" comment="Solved Unique_Paths and Unique_Paths_2 from Leetcode">
+      <change afterPath="$PROJECT_DIR$/src/GFG/Day_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Index.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Day_09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striever_A2Z_Sheet/Dynaming_Programming/Ninjas_Training.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striever_A2Z_Sheet/Dynaming_Programming/Ninjas_Training.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
   "keyToString": {
     "Application.Day_01.executor": "Run",
     "Application.Day_08.executor": "Run",
+    "Application.Day_09.executor": "Run",
     "Application.Ninjas_Training.executor": "Run",
     "Application.Unique_Paths.executor": "Run",
     "Application.Unique_Paths_2.executor": "Run",
@@ -127,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767873813555</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Solved Unique_Paths and Unique_Paths_2 from Leetcode">
+      <option name="closed" value="true" />
+      <created>1767890146750</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767890146750</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +161,7 @@
     <MESSAGE value="Test 1" />
     <MESSAGE value="Day 08 Done" />
     <MESSAGE value="Test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test1" />
+    <MESSAGE value="Solved Unique_Paths and Unique_Paths_2 from Leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved Unique_Paths and Unique_Paths_2 from Leetcode" />
   </component>
 </project>

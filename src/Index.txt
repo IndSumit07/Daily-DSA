@@ -1,0 +1,7 @@
+Day 08
+Leetcode -> 1458. Max Dot Product of Two Subsequences
+GFG -> Count Subarray with k odds
+
+Day 09
+Leetcode -> 865. Smallest Subtree with all the Deepest Nodes
+GFG -> Subarrays With At Most K Distinct Integers
