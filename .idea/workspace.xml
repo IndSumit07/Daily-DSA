@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a2fd199-ccb3-4539-89aa-03de4756cda7" name="Changes" comment="Day 09 Done">
-      <change afterPath="$PROJECT_DIR$/src/Striever_A2Z_Sheet/Dynaming_Programming/Triangle.java" afterDir="false" />
+    <list default="true" id="7a2fd199-ccb3-4539-89aa-03de4756cda7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_12_2026/Hourglass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_12_2026/Huge_Pile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/January_12_2026/Social_Experiment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces_Contests/Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GFG/Day_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Fabonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Power.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +44,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Monu_Bhaiya/Recursion/Notes" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Striever_A2Z_Sheet/Dynaming_Programming/Ninjas_Training.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -54,7 +63,15 @@
     "Application.Day_01.executor": "Run",
     "Application.Day_08.executor": "Run",
     "Application.Day_09.executor": "Run",
+    "Application.Day_14.executor": "Run",
+    "Application.Fabonacci.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Hourglass.executor": "Run",
+    "Application.Huge_Pile.executor": "Run",
     "Application.Ninjas_Training.executor": "Run",
+    "Application.Power.executor": "Run",
+    "Application.Problem_A.executor": "Run",
+    "Application.Social_Experiment.executor": "Run",
     "Application.Triangle.executor": "Run",
     "Application.Unique_Paths.executor": "Run",
     "Application.Unique_Paths_2.executor": "Run",
@@ -67,6 +84,31 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Codeforces_Contests" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Monu_Bhaiya.Recursion.Power" />
+      <module name="Daily DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Monu_Bhaiya.Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Power" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7a2fd199-ccb3-4539-89aa-03de4756cda7" name="Changes" comment="" />
@@ -123,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767973326580</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Solved Triangle Problem">
+      <option name="closed" value="true" />
+      <created>1768046792069</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768046792069</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +200,7 @@
     <MESSAGE value="Test1" />
     <MESSAGE value="Solved Unique_Paths and Unique_Paths_2 from Leetcode" />
     <MESSAGE value="Day 09 Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 09 Done" />
+    <MESSAGE value="Solved Triangle Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved Triangle Problem" />
   </component>
 </project>
